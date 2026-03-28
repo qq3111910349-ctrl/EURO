@@ -1,0 +1,8 @@
+{
+  "name": "EURO",
+  "symbol": "EURO",
+  "description": "EURO ON TRON",
+  "image": "https://raw.githubusercontent.com/qq3111910349-ctrl/EURO/refs/heads/main/logo.PNG",
+  "decimals": 9,
+  "attributes": []
+}
